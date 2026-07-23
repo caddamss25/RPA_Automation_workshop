@@ -1,0 +1,8 @@
+String.Format("<html><body 
+style='font-family:Calibri,Arial,sans-serif;font-size:14px;color:#333333;'>
+<p>
+Dear <b>{0}</b>,</p><p>Congratulations on successfully completing the 
+<b>{1}</b> course.</p>
+<p>Please find your course completion certificate attached to this email.</p>
+<p>We appreciate your dedication and wish you continued success in your learning and career.</p>
+<br/><p>Best Regards,<br/><b>CADDAM Software Solutions</b></p></body></html>", name, CurrentRow("Course").ToString)
