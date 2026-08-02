@@ -219,11 +219,11 @@ This project is intended for educational and learning purposes.
 
 ## 👨‍💻 Author
 
-**Subash Gum**
+**CADDAMSS**
 
 **CADDAM Software Solutions**
 
-🌐 https://www.caddamtechnologies.in/
+🌐 https://www.caddamss.com/
 
 ---
 
